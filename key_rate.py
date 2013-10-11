@@ -1,5 +1,6 @@
 # Picker's log : calculates the time required to pick an order 
 import time, datetime
+#pythonista
 import console
  
 # Set default values for the variables used in the script
